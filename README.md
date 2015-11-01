@@ -13,10 +13,10 @@ At present checks for:
 
 ## Setup
 
-Place the index.php and web.config files in the document root.
+Place the `index.php` and `web.config` files in the document root.
 
 ## Usage
-1. Point your browser to index.php. 
+1. Point your browser to `index.php`. 
 2. You must access the file through the web server and not the local filesystem.
 3. Follow the on screen instructions.
 4. Hope for all green.
